@@ -1,4 +1,4 @@
-package com.kkleiman;
+package com.kkleiman.HW1;
 
 import java.util.Arrays;
 
